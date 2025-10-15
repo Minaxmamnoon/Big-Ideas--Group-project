@@ -17,3 +17,8 @@ Orange → Orange
 If the color isn’t on the list, it says it doesn’t know a fruit for that color. Finally, it prints a message like:
 
 “Hey Mina! Your favorite color ‘red’ reminds me of an apple.”
+
+
+Group Members: 
+- Mina Mamnoon
+- Jermi John Vilanilathu
